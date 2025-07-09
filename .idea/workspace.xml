@@ -4,7 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="bd5d92e8-8c8e-497e-a2ef-7d53c3d539e9" name="Changes" comment="" />
+    <list default="true" id="bd5d92e8-8c8e-497e-a2ef-7d53c3d539e9" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/CityManagement/security/SecurityConfig.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/example/CityManagement/security/SecurityConfig.class" beforeDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
